@@ -35,7 +35,7 @@ footer:
   copyright: Mark Majer
   location: location
   social: Around the Web
-  credits: Contact Me
+ # credits: Contact Me
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
