@@ -56,7 +56,7 @@ address:
 #- line: 
 
 # Credits content
-credits: markandmajer@gmail.com <\br> 4436080054
+#credits: markandmajer@gmail.com 4436080054
 
 # Build settings
 markdown: kramdown
