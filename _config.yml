@@ -57,10 +57,8 @@ address:
 
 # Credits content
 credits: 
-  - title: email
-    url: markandmajer@gmail.com
-  - title: phone
-    url: "4436080054"
+- line: markandmajer@gmail.com
+- line: 4436080054
 
 # Build settings
 markdown: kramdown
