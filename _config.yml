@@ -52,15 +52,15 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
+- line: Baltimore, Maryland
+#- line: 
+
+# Credits content
+credits: 
   - title: email
     url: markandmajer@gmail.com
   - title: phone
     url: "4436080054"
-
-# Credits content
-credits: 
-- line: Baltimore, Maryland
-- line: 
 
 # Build settings
 markdown: kramdown
