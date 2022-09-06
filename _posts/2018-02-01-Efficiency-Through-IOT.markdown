@@ -7,5 +7,5 @@ alt: Stanley Black and Decker
 project-date: February 2018
 client: Stanley Black and Decker
 category: IOT
-description: Custom platform using advanced IOT technologies coupled with on the floor factory experience to drive human efficiencies and improve quality assurance for global operations. Included analytic dashboards and an alerting system. A prototype was installed on the factory floor and used in daily operations. Findings included increased accuracy and efficiency in operations.
+description: A custom platform using advanced IOT technologies coupled with on the floor factory experience to drive human efficiencies and improve quality assurance for global operations. This initiative included analytic dashboards and an alerting system. </br> A prototype was installed on the factory floor and used in daily operations. Findings included increased accuracy and efficiency in operations.
 ---
