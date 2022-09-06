@@ -56,8 +56,7 @@ address:
 - line: USA
 
 # Credits content
-credits: markandmajer@gmail.com 
-4436080054
+credits: "Email: markandmajer@gmail.com Phone: 4436080054"
 
 # Build settings
 markdown: kramdown
