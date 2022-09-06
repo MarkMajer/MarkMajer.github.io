@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2019-07-01
-img: g360.png
+img: ging.png
 alt: Gingrich 360
 project-date: July 2019
 client: Newt Gingrich
