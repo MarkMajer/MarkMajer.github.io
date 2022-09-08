@@ -7,5 +7,5 @@ alt: image-alt
 project-date: January 2022
 client: City Mattresss
 category: Web Development
-description: City Mattress sought an upgrade to their online presence tom increase revenue from online sales and to drive traffic in-store. A team of developers, user experience engineers, search optimization specialists and AB testing experts overhauled the e-commerce experience of the <a href="https://www.citymattress.com/">City Mattres website</a>. The result - a redesign of their front-end, site enhancements to drive conversions for key metrics and a new connector between their CMS and ERP to increase efficiencies in stock management.
+description: City Mattress sought an upgrade to their online presence tom increase revenue from online sales and to drive traffic in-store. A team of developers, user experience engineers, search optimization specialists and AB testing experts overhauled the e-commerce experience of the <a href="https://www.citymattress.com/">City Mattres website</a>. </br></br>The result - a comeplete redesign of their front-end, site enhancements to drive conversions for key metrics and a new connector between their CMS and ERP to increase efficiencies in stock management.
 ---
