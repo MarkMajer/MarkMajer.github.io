@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #0a66c2;
+    color: ##{{ site.color.primary }};
 }
 
 h1,
