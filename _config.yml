@@ -43,8 +43,8 @@ social:
     url: https://www.linkedin.com/in/mark-majer/
   - title: reddit
     url: https://www.reddit.com/user/MarkandMajer
-  #- title: stack-overflow
-   # url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: medium
+    url: https://markmajer.github.io/blog
   #- title: bitbucket
    # url: http://bitbucket.org/jekyll
   #- title: github
